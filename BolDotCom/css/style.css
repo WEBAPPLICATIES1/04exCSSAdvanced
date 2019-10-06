@@ -1,0 +1,50 @@
+/*
+Gebruikte kleuren:
+- blauw: #3366cc
+*/
+#container {
+    width: 972px;
+    margin: 0 auto;        
+    font-family: "Open Sans",Arial,Helvetica,sans-serif;
+    font-size: .875em;
+}
+/* header */
+header {
+    font-size: 90%;
+    height: 20px;
+    margin-top: 5px;
+}
+
+header > ul {    
+    margin: 0;
+    padding: 0;
+}
+
+header > ul:first-child {
+    float: left;
+}
+
+header > ul:last-child{
+    float: right;
+}
+
+header > ul > li {
+    list-style-type: none;
+    display: inline;
+}
+
+/* main */
+main a{
+    text-decoration: none;
+    color: #3366cc;    
+}
+/* fieldset */
+
+
+/* table */
+
+
+/* knop */
+
+
+

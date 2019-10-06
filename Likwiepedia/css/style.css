@@ -1,0 +1,80 @@
+html {
+	/* needed to make sure gradient goes all the way down */
+	height: 100%;
+}
+
+body {
+	font: 16px sans-serif;	
+	background: lightblue;
+	font: 16px sans-serif;
+	height: 100%;
+	margin: 0;
+}
+/* header main*/
+
+
+header {
+    float: left;
+    width: 200px;
+}
+
+main {
+    overflow: auto;
+	width: auto;
+}
+/* headings */
+h1 {
+    font-size: 200%;
+}
+
+h2, h3, h4 {    
+    margin: .5em 0;
+}
+
+h2 {
+    font-size: 150%;    
+}
+
+h3 {
+	font-size: 125%;
+}
+
+h4 {
+    font-size: 110%;
+}
+/* Navigatie*/
+
+nav ul {
+	display: none;
+}
+
+nav:hover ul{
+	display: block;
+}
+
+
+/* Opmaak navigatie */
+nav strong {
+	color: #224b6f;
+}
+
+nav ul li {
+	list-style-type: none;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #707070;
+}
+
+nav ul li a:hover {
+	text-decoration: underline;
+}
+
+/* table opmaak voor de drie tables*/
+
+/* opmaak eerste table */
+
+/* opmaak tweede en derde table */
+
+
