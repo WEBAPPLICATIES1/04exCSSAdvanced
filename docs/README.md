@@ -6,8 +6,9 @@ Pak deze zip uit in de map waar je alle leermateriaal van Webapplicaties I plaat
 
 Ga nu naar Visual Studio Code en open deze map.
 
-Er is 1 oefening, bestaande uit drie kleinere oefeningen, waarbij enkele onderdelen uit dit hoofdstuk worden ingeoefend: block-inline - Box model - advanced selectors. Vervolgens zijn er 3 grotere oefeningen, waar alle leerstof ivm CSS aan bod komen.
-Let op: **wijzig niets aan de html bestanden - voeg geen class en/of id attribuut toe aan de html**
+Er is 1 oefening, bestaande uit drie kleinere oefeningen, waarbij enkele onderdelen uit dit hoofdstuk worden ingeoefend: block-inline - Box model - advanced selectors. Vervolgens zijn er 3 grotere oefeningen, waar alle leerstof ivm CSS aan bod komen.             
+Let op: **wijzig niets aan de html bestanden - voeg geen class en/of id attribuut toe aan de html.**
+
 -----
 ## OEFENING 1: startoefeningen.
 Je vindt de oefeningen in de map **StartOefeningen**.
