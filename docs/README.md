@@ -69,7 +69,7 @@ Leg de link naar beide css bestanden in de twee html pagina's.
 Nuttige info:
 - beide pagina's zijn gecentreerd en hebben een vaste breedte van 96rem
 - kleuren: #fc0000; #003284; #cccccc; white, blue
-- alles is van toepassing op beide pagina's. Bij beatles.html wordt de tweede paragraaf verjes weergegeven.
+- alles is van toepassing op beide pagina's. Bij beatles.html wordt de tweede paragraaf vetjes weergegeven.
 
 Zonder CSS.
 
